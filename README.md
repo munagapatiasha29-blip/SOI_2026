@@ -11,5 +11,6 @@ _italic_
 ~~strike~~
 sumana <sub>Apssdc</sub>
 (a+b)<sup>2</sup>
-<u>Underline</u>
+<ins>Underline</ins>
 > Note : This is quote
+this is the `git commit`
